@@ -1,0 +1,35 @@
+.titulo{
+    border: 2px solid black; 
+    padding: 30px;
+    background-color: white;
+    
+}
+.conceito{
+    margin-left: 10px;
+    font-size: 20px;
+    text-align: justify;
+}
+.fundo{
+    background-color: white;
+}
+.sub{
+    
+    margin-left: 10px;
+}
+.div-conceito{
+    margin-left: 10px;
+}
+.foto-inicio{
+  margin-left: 17%;
+}
+
+.tabela{
+    table-layout: center;
+    border: 2px solid black; 
+}
+.inicio{
+   color: black;
+}
+.exemplos{
+    color: black;
+}
